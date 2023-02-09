@@ -19,7 +19,7 @@
   <main>
     <section id="section1">
       <h2>Section 1</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, risus a tincidunt laoreet, magna lorem pellentesque magna, eu laoreet lacus sem vel velit.</p>
+      <p> TEST Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, risus a tincidunt laoreet, magna lorem pellentesque magna, eu laoreet lacus sem vel velit.</p>
     </section>
     <section id="section2">
       <h2>Section 2</h2>
@@ -28,6 +28,10 @@
     <section id="section3">
       <h2>Section 3</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, risus a tincidunt laoreet, magna lorem pellentesque magna, eu laoreet lacus sem vel velit.</p>
+    </section>
+    <section id="kruispuzzel">
+      <!-- <h2 id="h2text">puzzel</h2> -->
+      <!-- <p id="ptext">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, risus a tincidunt laoreet, magna lorem pellentesque magna, eu laoreet lacus sem vel velit.</p> -->
     </section>
   </main>
   <footer>
