@@ -11,6 +11,11 @@ header {
   text-align: center;
 }
 
+body {
+  background-color: grey;
+  /* background-image: url('../img/newspaperbackground.jpg'); */
+}
+
 nav {
   background-color: #eee;
   display: flex;
@@ -38,9 +43,34 @@ nav a {
 
 main {
   padding: 10px;
+  
 }
 
 section {
   background-color: #fff;
   padding: 10px;
+  
+}
+
+footer {
+  padding-left: 30px;
+}
+
+#kruispuzzel {
+  background-color: red;
+  background-image: url('../img/kruispuzzel.png');
+  background-repeat: no-repeat;
+  /* background-size: 100%; */
+  width: 80%;
+  height: 250px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#h2text{
+  opacity: 0.0;
+}
+
+#ptext{
+  opacity: 0.0;
 }
