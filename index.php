@@ -30,7 +30,6 @@
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, risus a tincidunt laoreet, magna lorem pellentesque magna, eu laoreet lacus sem vel velit.</p>
     </section>
     <section id="kruispuzzel">
-      <img src='../img/kruispuzzel.png' alt="Italian Trulli">
       <!-- <h2 id="h2text">puzzel</h2> -->
       <!-- <p id="ptext">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, risus a tincidunt laoreet, magna lorem pellentesque magna, eu laoreet lacus sem vel velit.</p> -->
     </section>
