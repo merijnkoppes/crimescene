@@ -58,9 +58,8 @@ footer {
 
 #kruispuzzel {
   background-color: red;
-  /* background-image: url('../img/kruispuzzel.png'); */
+  background-image: url('../img/kruispuzzel.png'); 
   background-repeat: no-repeat;
-  /* background-size: 100%; */
   width: 220px;
   height: 185px;
   margin-left: 15%;
