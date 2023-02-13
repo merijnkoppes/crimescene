@@ -11,9 +11,7 @@
   <title>My Newspaper</title>
 </head>
 <body>
-  <header>
-    <h1>My Newspaper</h1>
-  </header>
+  
     <?php include("includes/nav.php")?>
   <main>
     <section id="section1">
@@ -33,6 +31,6 @@
       <!-- <p id="ptext">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, risus a tincidunt laoreet, magna lorem pellentesque magna, eu laoreet lacus sem vel velit.</p> -->
     </section>
   </main>
-  <?php include("includes/footer.php")?>
+  <?php include ("includes/foot.php")?>
 </body>
 </html>
