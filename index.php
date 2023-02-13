@@ -33,8 +33,6 @@
       <!-- <p id="ptext">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, risus a tincidunt laoreet, magna lorem pellentesque magna, eu laoreet lacus sem vel velit.</p> -->
     </section>
   </main>
-  <footer>
-    <p>Copyright © 2023 My Newspaper</p>
-  </footer>
+  <?php include("includes/footer.php")?>
 </body>
 </html>
