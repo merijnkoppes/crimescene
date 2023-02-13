@@ -12,7 +12,7 @@
         session_start();
         include ("includes/nav.php")?>
     <div class="contentblok">
-                <form name ="form" id="login" action="phpincludes/loginvalidate.php" method="post">
+                <form name ="form" id="login" action="includes/loginvalidate.php" method="POST">
                 <P>log hier in: </P><br>
                 <input type="text" name="username" placeholder="username" ><br>
                 <p>vul je wachtwoord in:</p><br>

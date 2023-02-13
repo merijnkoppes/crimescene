@@ -1,0 +1,1 @@
+<h1> FOUT, PROBEER HET <a href = "index.php"> HIER OPNIEUW</h1>
