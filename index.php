@@ -9,13 +9,7 @@
   <header>
     <h1>My Newspaper</h1>
   </header>
-  <nav>
-    <ul>
-      <li><a href="#section1">Section 1</a></li>
-      <li><a href="#section2">Section 2</a></li>
-      <li><a href="#section3">Section 3</a></li>
-    </ul>
-  </nav>
+    <?php include("includes/nav.php")?>
   <main>
     <section id="section1">
       <h2>Section 1</h2>
