@@ -24,6 +24,9 @@ nav {
   background-color: white;
   display: flex;
   justify-content: space-around;
+  border-radius: 10px;
+  margin-left: 5px;
+  margin-right:5px;
 }
 
 nav ul {
@@ -58,6 +61,8 @@ section {
 
 footer {
   padding-left: 30px;
+  color:#333;
+  
 }
 
 #kruispuzzel {
@@ -84,4 +89,14 @@ footer {
 }
 .juistetekst{
   color:white;
+}
+.contentblok{
+  background-color:white;
+  margin-top:10px;
+  margin-bottom: 10px;
+  margin-left:75px;
+  padding:3px;
+  border-radius: 5px;
+  width: 225px;
+  
 }
