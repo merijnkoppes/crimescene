@@ -9,19 +9,14 @@
         $stmt -> bindParam(":username", $_POST["username"]);
         $stmt -> execute();
         $result = $stmt -> fetchAll();
-
+        
         foreach($result as $res)  { 
             if($_POST["password"] == $res["password"]) {
-                $_SESSION['username'] = $res['username'];
                 header("Location:../ingelogd.php");
-                break;
+                return;
             }
-            elseif(
-                header("Location:../foutantwoord.php")
-            );
-// password word gechecked, username alleen nog niet
-
         }
+        header("Location:../foutantwoord.php");
     }
     // if (isset($_SESSION["username"]) == TRUE){
 
