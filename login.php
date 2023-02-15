@@ -17,6 +17,7 @@
                 <input type="text" name="username" placeholder="username" ><br>
                 <p id="losse-tekst">Vul je wachtwoord in:</p><br>
                 <input type="password" name="password" placeholder="password"><br>
+                <input type="submit" value="submit" name="submit">
     </div>
 </body>
 <script src="js/inlog.js"></script>

@@ -1,4 +1,5 @@
 <footer>
-    <p>Copyright © 2023 EscapeRoom</p>
-    <p> DISCLAIMER: Geen officiële nieuwssite, artikelen zijn artificieel!
+  <div class="footer">
+    <p> ERROR, CODE:"NOT FOUND",</p> <p id="editedtext">please login</p>
+</div>
   </footer>

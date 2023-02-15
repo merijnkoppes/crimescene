@@ -1,6 +1,6 @@
 <header>
 <img id="logo" src = "img/crimescenelogo.jpg" alt = "werkt niet man">
-    <h1>nieuwsbrief </h1>
+    <h1>EscapeRoom</h1>
   </header>
   
 <nav>

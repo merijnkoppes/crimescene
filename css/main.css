@@ -100,3 +100,11 @@ footer {
   width: 225px;
   
 }
+#editedtext{
+  text-decoration: underline;
+}
+.footer{
+display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+}
