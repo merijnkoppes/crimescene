@@ -26,7 +26,7 @@ nav {
   justify-content: space-around;
   border-radius: 10px;
   margin-left: 5px;
-  margin-right:5px;
+  margin-right: 5px;
 }
 
 nav ul {
@@ -50,61 +50,75 @@ nav a {
 
 main {
   padding: 10px;
-  
+
 }
 
 section {
   background-color: white;
   padding: 10px;
-  
+
 }
 
 footer {
   padding-left: 30px;
-  color:#333;
-  
+  color: #333;
+
 }
 
 #kruispuzzel {
   background-color: red;
-  background-image: url('../img/kruispuzzel.png'); 
+  background-image: url('../img/kruispuzzel.png');
   background-repeat: no-repeat;
   width: 220px;
   height: 185px;
   margin-left: 15%;
   margin-right: 5%;
-  margin-top:10px;
+  margin-top: 10px;
 
 }
 
-#h2text{
+#h2text {
   opacity: 0.0;
 }
 
-#ptext{
+#ptext {
   opacity: 0.0;
 }
-#logo{
+
+#logo {
   height: 100px;
 }
-.juistetekst{
-  color:white;
+
+.juistetekst {
+  color: white;
 }
-.contentblok{
-  background-color:white;
-  margin-top:10px;
+
+.contentblok {
+  background-color: white;
+  margin-top: 10px;
   margin-bottom: 10px;
-  margin-left:75px;
-  padding:3px;
+  margin-left: 75px;
+  padding: 3px;
   border-radius: 5px;
   width: 225px;
-  
+
 }
-#editedtext{
+
+#editedtext {
   text-decoration: underline;
 }
-.footer{
-display: flex;
-flex-direction: row;
-flex-wrap: nowrap;
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  position:absolute;
+  margin-top: auto;
 }
+.foutpage{
+  color:white
+}
+.landingpage{
+  color:white;
+}
+
