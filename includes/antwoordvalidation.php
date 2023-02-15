@@ -9,12 +9,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
     $stmt -> execute();
     $result = $stmt -> fetchAll();
 
-    foreach($result as $res)    {
-        if ($_POST["achternaam"] == $res["achternaam"]){
-            header("Location:../klaar.php");
-            return;
+        foreach($result as $res)    {
+            if ($_POST["achternaam"] == $res["achternaam"]){
+              header("Location:../klaar.php");
+              return;
+            }
         }
-    }
-    header("Location../fout.php");
+        header("Location:../fout.php");
 }
 ?>
