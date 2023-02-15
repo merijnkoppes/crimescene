@@ -121,4 +121,33 @@ footer {
 .landingpage{
   color:white;
 }
-
+.donotcross{
+  color:plum;
+}
+#lijn{
+  max-width: 480px;
+}
+.logoklaar{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.klaartext{
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+}
+#specific{
+  text-decoration: underline;
+}
+.klaartext2{
+  display:flex;
+  text-align: center;
+  color: aliceblue;
+}
+.klaarpage{
+  display: flex;
+  flex-direction: column;
+}
