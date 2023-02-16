@@ -15,7 +15,7 @@
   <main>
   <section id="section1">
       <h2>The Rise of Cybercrime: How Detectives are Keeping Up with the Times</h2>
-      <p>As the world becomes increasingly digitized, so does crime. From identity theft to hacking and fraud, cybercrime is on the rise, and it's putting detectives to the test.<a class="hidden">wachtwoord</a>
+      <p>As the world becomes increasingly digitized, so does crime. From identity theft to hacking and fraud, cybercrime is on the rise, and it's putting detectives to the test.<a class="hidden">iyj7LKj</a>
         <br>
         "Cybercrime is one of the biggest threats to society today," says Detective John Smith of the cybercrime division of the police department. "It's a constant battle to stay ahead of the criminals."
 <br>
@@ -30,5 +30,6 @@ To keep up with the ever-evolving world of cybercrime, detectives must continual
     </section>
   </main>
   <?php include ("includes/foot.php")?>
+  <h3 id = "hint1"> tip: selecteer de hele tekst</h3>
 </body>
 </html>
